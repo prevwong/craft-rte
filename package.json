@@ -4,7 +4,8 @@
   "private": true,
   "dependencies": {
     "@adobe/react-spectrum": "^3.6.0",
-    "@craftjs/core": "^0.1.0-beta.13",
+    "@craftjs/core": "^0.2.0-alpha.10",
+    "@craftjs/slate": "^0.2.0-alpha.5",
     "@spectrum-icons/workflow": "^3.2.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
