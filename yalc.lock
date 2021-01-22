@@ -1,0 +1,14 @@
+{
+  "version": "v1",
+  "packages": {
+    "@craftjs/core": {
+      "signature": "a3639aa99115213da8a9881abb38aea7"
+    },
+    "@craftjs/slate": {
+      "signature": "0161bf7c28fc289b09c5eebcd0213ec9"
+    },
+    "@craftjs/utils": {
+      "signature": "1e160ec212ad9bfb9fe10ddac032324a"
+    }
+  }
+}
